@@ -421,8 +421,8 @@ body {
   color: #bebebe;
 }
 .cb-button:hover {
-  background: #e2e2e2;
-  color: #fff;
+  background: #fff;
+  color: #000;
 }
 .cb-button:hover:disabled {
   background: none;
